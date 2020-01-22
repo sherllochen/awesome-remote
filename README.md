@@ -1,5 +1,12 @@
 # Awesome remote
 Everything about remote work.
+There will be a brief introduction in English and Chinese below every entry.
+
+## Sites
+### [Remote Taiwan](https://medium.com/remote-taiwan)
+A community of remote workers in Taiwan. Share experience and information of digital nomad lifestyle.
+
+台湾数字游民社区，分享数字游民生活的经验及建议。
 
 ## Reports
 ### [State of Remote Work 2019 from OWL Labs](https://www.owllabs.com/state-of-remote-work/2019)
